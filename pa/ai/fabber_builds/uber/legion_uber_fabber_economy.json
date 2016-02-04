@@ -83,7 +83,7 @@
     {
       "name": "Legion - Uber - M-42B Mass Extractor - Expand 1 - Area",
       "to_build": "LegionEcoBasicMetalExtractor",
-      "instance_count": 2,
+      "instance_count": -1,
       "max_num_assisters": 1,
       "shared_instance_count": "BasicMetal",
       "priority": 499,
@@ -155,7 +155,7 @@
     {
       "name": "Legion - Uber - M-42B Mass Extractor - Expand 3 - Area",
       "to_build": "LegionEcoBasicMetalExtractor",
-      "instance_count": 6,
+      "instance_count": -1,
       "max_num_assisters": 1,
       "priority": 2,
       "base_sort": "FromBuilder",
@@ -268,7 +268,7 @@
     {
       "name": "Legion - Uber - M-42B Mass Extractor - Expand 1",
       "to_build": "LegionEcoBasicMetalExtractor",
-      "instance_count": 2,
+      "instance_count": -1,
       "max_num_assisters": 1,
       "shared_instance_count": "BasicMetal",
       "priority": 499,
@@ -338,7 +338,7 @@
     {
       "name": "Legion - Uber - M-42B Mass Extractor - Expand 3",
       "to_build": "LegionEcoBasicMetalExtractor",
-      "instance_count": 6,
+      "instance_count": -1,
       "max_num_assisters": 1,
       "shared_instance_count": "BasicMetal",
       "priority": 2,
@@ -572,7 +572,7 @@
     {
       "name": "Legion - Uber - M-48A Advanced Mass Extractor - Desire - Area",
       "to_build": "LegionEcoAdvancedMetalExtractor",
-      "instance_count": 2,
+      "instance_count": -1,
       "min_num_assisters": 1,
       "max_num_assisters": 3,
       "shared_instance_count": "AdvancedMetal",
@@ -647,7 +647,7 @@
     {
       "name": "Legion - Uber - M-48A Advanced Mass Extractor",
       "to_build": "LegionEcoAdvancedMetalExtractor",
-      "instance_count": 2,
+      "instance_count": -1,
       "min_num_assisters": 1,
       "max_num_assisters": 3,
       "shared_instance_count": "AdvancedMetal",
@@ -687,7 +687,7 @@
     {
       "name": "Legion - Uber - M-48A Advanced Mass Extractor - Desire",
       "to_build": "LegionEcoAdvancedMetalExtractor",
-      "instance_count": 2,
+      "instance_count": -1,
       "min_num_assisters": 1,
       "max_num_assisters": 3,
       "shared_instance_count": "AdvancedMetal",
@@ -760,7 +760,7 @@
     {
       "name": "Legion - Uber - Black Hole Generator - Fast Builders",
       "to_build": "LegionEcoAdvancedEnergyPlant",
-      "instance_count": 2,
+      "instance_count": -1,
       "min_num_assisters": 3,
       "max_num_assisters": 5,
       "shared_instance_count": "AdvancedEnergy",
@@ -802,7 +802,7 @@
     {
       "name": "Legion - Uber - Black Hole Generator - Slow Builders",
       "to_build": "LegionEcoAdvancedEnergyPlant",
-      "instance_count": 2,
+      "instance_count": -1,
       "min_num_assisters": 3,
       "max_num_assisters": 5,
       "shared_instance_count": "AdvancedEnergy",
@@ -844,7 +844,7 @@
     {
       "name": "Legion - Uber - Black Hole Generator - Desire",
       "to_build": "LegionEcoAdvancedEnergyPlant",
-      "instance_count": 2,
+      "instance_count": -1,
       "min_num_assisters": 3,
       "max_num_assisters": 5,
       "shared_instance_count": "AdvancedEnergy",
@@ -884,7 +884,7 @@
     {
       "name": "Legion - Uber - Black Hole Generator - Desire - Slow Builders",
       "to_build": "LegionEcoAdvancedEnergyPlant",
-      "instance_count": 2,
+      "instance_count": -1,
       "min_num_assisters": 3,
       "max_num_assisters": 5,
       "shared_instance_count": "AdvancedEnergy",
