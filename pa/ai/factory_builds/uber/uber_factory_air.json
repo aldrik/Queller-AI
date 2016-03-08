@@ -104,7 +104,8 @@
           }
         ]
       ]
-    }{
+    },
+    {
       "name": "Uber - Basic Air Bomber",
       "to_build": "BasicBomber",
       "instance_count": -1,
